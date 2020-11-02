@@ -1,3 +1,19 @@
 .minHeight {
   min-height: 30px;
 }
+
+.scorebox {
+  width: 98%;
+}
+
+.scorebox_pic {
+  width: 15%;
+}
+
+.scorebox_name {
+  width: 35%;
+}
+
+.scorebox_set {
+  width: 10%;
+}

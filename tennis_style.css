@@ -3,7 +3,9 @@
 }
 
 .scorebox {
-  width: 98%;
+  
+  margin-left: auto;
+	margin-right: auto;
 }
 
 .scorebox_pic {

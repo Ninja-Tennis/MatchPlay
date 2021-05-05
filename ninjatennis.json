@@ -8,21 +8,21 @@
       "name"          : "Emily M.",
       "profile_link"  : "index.html"
     },
-    "Ethan Y." : {
-      "name"          : "Ethan Y.",
+    "Ethan T." : {
+      "name"          : "Ethan T.",
       "profile_link"  : "index.html"
     },
     "Lydia X." : {
       "name"          : "Lydia X.",
-      "profile_link"  : "index.html"
+      "profile_link"  : "players/Lydia/index.html"
     },
     "Norah D." : {
       "name"          : "Norah D.",
-      "profile_link"  : "index.html"
+      "profile_link"  : "players/Norah/index.html"
     },
     "Peter Le" : {
       "name"          : "Peter Le",
-      "profile_link"  : "index.html"
+      "profile_link"  : "players/PeterLe/index.html"
     },
     "Peter Lo" : {
       "name"          : "Peter Lo",
@@ -30,6 +30,14 @@
     },
     "Ryan L." : {
       "name"          : "Ryan L.",
+      "profile_link"  : "index.html"
+    },
+    "Team Peter" : {
+      "name"          : "Team Peter",
+      "profile_link"  : "index.html"
+    },
+    "Girl Power" : {
+      "name"          : "Girl Power",
       "profile_link"  : "index.html"
     }
   },
